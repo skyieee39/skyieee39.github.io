@@ -1,0 +1,75 @@
+h1 {
+    color: gray;
+    font-weight: bolder;
+    text-align: center;
+    font-family: lemon;
+    font-size: 89px;
+}
+
+h4 {
+    color: gray;
+    text-align: center;
+    font-style: italic;
+    font-family: pompa;
+    font-size: 30px;
+    line-height: 50px;
+}
+
+h2{
+    color: gray;
+    text-align: center;
+    font-style: italic;
+    font-family: pompa; 
+    font-size: 50px;
+}
+
+.title {
+    border: 0.5rem outset rgb(184, 146, 155);
+    outline: 0.5rem solid rgb(226, 183, 166);
+    box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
+    border-radius: 15px;
+    font: bold 1rem sans-serif;
+    margin: 4.5rem;
+    padding: 0.5rem;
+    outline-offset: 0.3rem;
+  }
+
+.column2 {
+    float: left;
+    width: 35%;
+    padding: 30px;
+    border: 0.5rem outset rgb(184, 146, 155);
+    outline: 0.5rem solid rgb(226, 183, 166);
+    box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
+    border-radius: 15px;
+    font: bold 1rem sans-serif;
+    margin: 4.5rem;
+    padding: 0.5rem;
+    outline-offset: 0.3rem;
+}
+
+.column1 {
+    float: right;
+    width: 35%;
+    padding: 30px;
+    border: 0.5rem outset rgb(184, 146, 155);
+    outline: 0.5rem solid rgb(226, 183, 166);
+    box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
+    border-radius: 15px;
+    font: bold 1rem sans-serif;
+    margin: 4.5rem;
+    padding: 0.5rem;
+    outline-offset: 0.3rem;
+}
+
+.column3 {
+    float: right;
+    border: 0.5rem outset rgb(184, 146, 155);
+    outline: 0.5rem solid rgb(226, 183, 166);
+    box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
+    border-radius: 15px;
+    font: bold 1rem sans-serif;
+    margin: 4.5rem;
+    padding: 0.5rem;
+    outline-offset: 0.3rem;
+}
