@@ -63,7 +63,23 @@ h2{
 }
 
 .column3 {
+    float: left;
+    width: 35%;
+    padding: 30px;
+    border: 0.5rem outset rgb(184, 146, 155);
+    outline: 0.5rem solid rgb(226, 183, 166);
+    box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
+    border-radius: 15px;
+    font: bold 1rem sans-serif;
+    margin: 4.5rem;
+    padding: 0.5rem;
+    outline-offset: 0.3rem;
+}
+
+.column4 {
     float: right;
+    width: 35%;
+    padding: 30px;
     border: 0.5rem outset rgb(184, 146, 155);
     outline: 0.5rem solid rgb(226, 183, 166);
     box-shadow: 0 0 0 1.5rem rgb(139, 187, 176);
